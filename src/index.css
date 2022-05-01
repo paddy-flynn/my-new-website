@@ -4,41 +4,5 @@
 
 body {
     font-family: Consolas,"Liberation Mono",Menlo,Courier,monospace;
-    font-size: 16px;
-    color: #D9D9D9;
-}
-
-h1 {
-    font-size: 22px;
-    margin-bottom: 30px;
-}
-
-.key {
-    color:rgba(149,213,243,255);
-    width: 100px;
-}
-
-.value {
-    color: rgba(184,130,106,255);
-}
-
-.json-like p {
-    display: block;
-    margin-bottom: 8px;
-}
-
-.data {
-    padding-left: 25px;
-}
-
-a {
-    color: rgba(184,130,106,255);
-    text-decoration: none;
-}
-
-a:focus,
-a:hover {
-    text-decoration: underline;
-    color: rgba(184,130,106,255);
 }
 
